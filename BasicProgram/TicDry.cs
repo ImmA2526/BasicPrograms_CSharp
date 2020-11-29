@@ -4,7 +4,7 @@ using System.Text;
 
 namespace BasicProgram
 {
-	class TicToc
+	class TicDry
 	{
 		static char[] PlayerSign = { 'X', 'O' };
 		static char[] Board = { '1', '2', '3', '4', '5', '6', '7', '8', '9' };
