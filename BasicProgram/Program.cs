@@ -29,10 +29,11 @@ namespace BasicProgram
 						GuessNumber.GuesNumber();
 					break;
 					case 6:
-						TicTac.Tic();
+						TicDry.Tic();
 					break;
 					case 7:
 						MergeSort.Merge();
+					break;
 					default:
 						Console.WriteLine("\n Invalid Choice....");
 					break;
