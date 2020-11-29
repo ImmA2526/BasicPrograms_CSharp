@@ -29,7 +29,7 @@ namespace BasicProgram
 						GuessNumber.GuesNumber();
 					break;
 					case 6:
-						TicDry.Tic();
+						TicTac.Tic();
 					break;
 					case 7:
 						MergeSort.Merge();
